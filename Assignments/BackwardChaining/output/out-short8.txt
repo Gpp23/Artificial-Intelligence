@@ -1,0 +1,11 @@
+PART 1. Data
+
+    1) Rules
+       R1: C, D -> Z
+       R2: C, E -> Y
+    2) Facts C D
+    3) Goal Y.
+
+
+PART 3. Results
+  1) Goal Z not achieved. No path.

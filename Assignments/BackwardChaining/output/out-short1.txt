@@ -1,0 +1,13 @@
+PART 1. Data
+
+    1) Rules
+       R1: C, D -> Z
+       R2: T -> C
+       R3: T -> Z
+    2) Facts T
+    3) Goal Z.
+
+
+PART 3. Results
+  1) Goal Z achieved.
+  2) Path: R2, R3.
